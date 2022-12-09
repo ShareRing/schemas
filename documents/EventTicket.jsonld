@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "idType": "xsd:string",
+    "idNumber": "xsd:string",
+    "fullName": "xsd:string",
+    "birthDate": "xsd:date",
+    "rawData": "xsd:string"
+  }
+}

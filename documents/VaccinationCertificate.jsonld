@@ -1,0 +1,25 @@
+{  
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "certificateRefId": "xsd:string",
+    "idType": "xsd:string",
+    "idNumber": "xsd:string",
+    "fullName": "xsd:string",
+    "birthDate": "xsd:date",
+    "vaccineName": "xsd:string",
+    "vaccinations": "xsd:list",
+    "manufacturer": "xsd:string",
+    "lotNumber": "xsd:string",
+    "placeOfTaken": "xsd:string",
+    "dateOfExpiry": "xsd:dateTime",
+    "dateOfTaken": "xsd:dateTime",
+    "vaccineCode": "xsd:string",
+    "medicinalProductCode": "xsd:string",
+    "medicinalProductName": "xsd:string",
+    "manufacturerCode": "xsd:string",
+    "memberStateCode": "xsd:string",
+    "doseNumber": "xsd:nonNegativeInteger"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "passportCode": "xsd:string",
+    "passportType": "xsd:string",
+    "passportNo": "xsd:string",
+    "nationalId": "xsd:string",
+    "fullName": "xsd:string",
+    "birthDate": "xsd:date",
+    "birthPlace": "xsd:string",
+    "gender": "xsd:string",
+    "nationality": "xsd:string",
+    "dateOfIssue": "xsd:date",
+    "dateOfExpiry": "xsd:date",
+    "placeOfIssue": "xsd:string"
+  }
+}

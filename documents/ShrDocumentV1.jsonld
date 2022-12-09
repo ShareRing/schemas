@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "attachments": {
+      "@id": "https://schema.org/attachments",
+      "@container": [
+        "@index",
+        "@set"
+      ]
+    },
+    "version": "xsd:string",
+    "schema": "xsd:string",
+    "hash": "xsd:string",
+    "path": {
+      "@id": "https://schema.org/nodes",
+      "@container": [
+        "@index",
+        "@set"
+      ]
+    },
+    "root": "xsd:string",
+    "salt": "xsd:string",
+    "obfuscated": {
+      "@id": "https://schema.org/obfuscated",
+      "@container": [
+        "@index",
+        "@set"
+      ]
+    },
+    "name": "xsd:string",
+    "data": "xsd:string",
+    "digestData": "xsd:string",
+    "fileName": "xsd:string",
+    "mimeType": "xsd:string"
+  }
+}
